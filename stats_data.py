@@ -1,4 +1,6 @@
 import statistics as st
+
+
 class StatsData:
     def __init__(self, lista):
         self.l_data = lista
